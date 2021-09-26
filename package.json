@@ -1,0 +1,12 @@
+{
+  "name": "class01",
+  "version": "1.0.0",
+  "description": "file for the class01 from CC/CA course from Branas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Mateus Pedroso",
+  "license": "ISC"
+}
